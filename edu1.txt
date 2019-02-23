@@ -1,0 +1,7 @@
+•resume2	
+Around 3.5 years of experience as Linux Administrator with DevOpsfor Linux Systems including monitoring, configuration, troubleshooting and maintenance of (RHEL, Ubuntu, Centos etc.)operating systems.
+•	Experience DevOps with migration to Amazon Web Services AWS (EC2, S3, SG, VPC, Volume, Snapshot, Cloud watch, Auto Scaling etc.).
+•	Understanding of AWS Cloud operation and different offerings and concepts like Infra as a service, Platform as a service etc.
+•	Good knowledge of CI/CD Setup and continuous build environment with Jenkins to speed up deployments.
+•	Knowledge of Installation and configure various Jenkins jobs for application deployment and test cases execution.
+•	Good knowledge of containerization platform Docker, Creating Images and containers to deploy the 
